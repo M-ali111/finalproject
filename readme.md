@@ -1,0 +1,1 @@
+In server.js enter your orignal outlook email and passwords
